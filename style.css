@@ -1,0 +1,41 @@
+.canver {
+    width: 500px;
+    height: 600px;
+    background-color: #3f6578;
+    overflow: hidden;
+}
+
+.frame {
+    width: 500px;
+    border: 10px solid black;
+    display: flex;
+    margin: 80px auto;
+    padding: 10px;
+}
+
+.one {
+    width: 150px;
+    height: 100px;
+    background-color: #334455;
+    margin: 25px auto;
+    border-radius: 6px 10px;
+    transform: rotate(-2deg);
+}
+
+.two {
+    width: 250px;
+    height: 250px;
+    background-color: #124567;
+    margin: 10px 30px;
+    border-radius: 9px 25px;
+    transform: rotate(1deg);
+}
+
+.three {
+    width: 190px;
+    height: 100px;
+    background-color: #165683;
+    margin: 60px  259px;
+    border-radius: 8px 10px;
+    transform: rotate(4deg);
+}
